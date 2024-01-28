@@ -4,7 +4,7 @@ A calculator app with rendering graphs in real time
 # Graphical calculator with graphs support
 
 This project is a simple calculator that has support for rendering graphs of functions in real time.
-[calculator picture](misc/claculator.png)
+![calculator picture](misc/claculator.png)
 
 # How to build
 ## Requirements
